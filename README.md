@@ -22,7 +22,7 @@ Most "research code" repos on GitHub force users to:
 
 This repo skips straight to step 4. The pretrained weights are pulled
 automatically from the **[Hugging Face Hub](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)**
-the first time you run anything, then cached locally for instant reuse.
+The first time you run anything, then cached locally for instant reuse.
 
 ---
 
