@@ -1,0 +1,16 @@
+# Downloaded model checkpoints — do not commit large binary weights
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
